@@ -36,6 +36,9 @@ Interested in energy and commodity markets, in particular short-term power marke
 **[Brent-WTI Spread Trading](https://github.com/Paul-Roseau/energy-trading-analytics/tree/main/projects/01_brent_wti_spread)**  
 Mean-reversion analysis of the Brent-WTI spread: Ornstein-Uhlenbeck calibration by market regime, z-score strategy backtest with realistic execution, and spread option pricing (Bachelier, Kirk).
 
+**[Oil Price Risk Models](https://github.com/Paul-Roseau/energy-trading-analytics/tree/main/projects/02_oil_price_risk)**  
+GBM versus Ornstein-Uhlenbeck Monte Carlo forecasts on Brent crude, and one-day VaR backtesting (EWMA, Historical and Filtered Historical Simulation) with Kupiec and Christoffersen tests.
+
 
 ## Professional Experience
 
