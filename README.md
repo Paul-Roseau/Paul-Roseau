@@ -39,6 +39,9 @@ Mean-reversion analysis of the Brent-WTI spread: Ornstein-Uhlenbeck calibration 
 **[Oil Price Risk Models](https://github.com/Paul-Roseau/energy-trading-analytics/tree/main/projects/02_oil_price_risk)**  
 GBM versus Ornstein-Uhlenbeck Monte Carlo forecasts on Brent crude, and one-day VaR backtesting (EWMA, Historical and Filtered Historical Simulation) with Kupiec and Christoffersen tests.
 
+**[Storage Arbitrage Calculator](https://github.com/Paul-Roseau/energy-trading-analytics/tree/main/projects/03_storage_arbitrage)**  
+Sell-now versus store decision for a hedged diesel cargo in contango: P&L breakdown, break-even contango and break-even financing rate.
+
 
 ## Professional Experience
 
